@@ -81,4 +81,4 @@ if __name__ == "__main__":
     scene.render()
 
     # To use:
-    # manim -pqk C:\Users\topgu\PycharmProjects\obrazowanie\venv\nowafala.py EMWave3D
+    # manim -pqk C:\Users\emwave.py EMWave3D
